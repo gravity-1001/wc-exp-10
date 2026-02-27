@@ -5,7 +5,7 @@
 - Anonymous Student Feedback Form: Allows students to submit anonymous feedback for lectures/labs, including rating (Excellent, Good, Needs Improvement) and optional short text comments.
 - Teacher Login: Secure teacher login using JWT authentication.
 - Real-time Feedback Summaries: Summarize the student's feedback.
-- Dashboard Feedback Tool: The teacher dashboard visualizes feedback using Chart.js to display rating distributions. The dashboard gives the teachers insights, with a tool that enables instructors to understand teaching effectiveness.
+- Dashboard Feedback Tool: The teacher dashboard visualizes feedback using Chart.js to display rating distributions. The dashboard gives the teachers insights, with a tool that enables instructors to understand teaching effectiveness amd understand student feedbacks 
 
 ## Style Guidelines:
 
